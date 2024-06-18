@@ -17,8 +17,8 @@ Public Health Impact: Accurate air quality predictions are crucial for public he
 
 # Technologies Used
 
-Python: Using Python for its powerful capabilities in data preprocessing, feature engineering, and building machine learning models. Python's extensive libraries and tools make it an ideal choice for handling and analyzing large datasets.
+Python: Used Python for its powerful capabilities in data preprocessing, feature engineering, and building machine learning models. Python's extensive libraries and tools make it an ideal choice for handling and analyzing large datasets.
 
-Satellite Data Processing: Utilizing specialized tools and libraries to process and extract relevant information from Sentinel 5P satellite radar data. This step is crucial for transforming raw satellite data into meaningful inputs for our models.
+Satellite Data Processing: Utilized specialized tools and libraries to process and extract relevant information from Sentinel 5P satellite radar data. This step is crucial for transforming raw satellite data into meaningful inputs for our models.
 
-Machine Learning Models: Implementing advanced regression models in this case Lightgbm regressor to predict air quality readings. By using both satellite data and ground-based sensor data, the moddel provided more accurate and reliable predictions, helping us understand and address air quality issues more effectively.
+Machine Learning Models: Implemented advanced regression models in this case Lightgbm regressor to predict air quality readings. By using both satellite data and ground-based sensor data, the moddel provided more accurate and reliable predictions, helping us understand and address air quality issues more effectively.
