@@ -5,7 +5,7 @@
 In this challenge, you are asked to estimate PM2.5 levels from satellite observations based on Aerosol Optical Depth (AOD) for eight cities in seven African countries - Lagos, Accra, Nairobi, Yaounde, Bujumbura, Kisumu, Kampala, and Gulu - with varying ground monitoring resolutions, using appropriate machine learning algorithms. Ground-based observations in the selected cities will be used to validate the satellite estimates.
 
 # Aim
-The goal of this challenge is to predict air quality readings from AirQo's sensors by leveraging data from Sentinel 5P satellites. We aim to explore how satellite data can enhance air quality predictions, particularly in regions that lack direct sensor coverage, offering a broader and more detailed understanding of air quality across different areas.
+The objective of the project is to estimate PM2.5 levels from satellite observations based on Aerosol Optical Depth (AOD) for eight cities in seven African countries i.e., Kampala, Lagos, Accra, Nairobi, Yaounde, Bujumbura, Kisumu, and Gulu. PM2.5 refers to atmospheric particulate matter that has a diameter of less than 2.5 micrometers and is one of the most harmful air pollutants. PM2.5 is a common measure of air quality that normally requires ground-based sensors to measure.
 
 # Importance of the Challenge
 
